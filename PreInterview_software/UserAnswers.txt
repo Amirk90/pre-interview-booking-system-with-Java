@@ -1,0 +1,2 @@
+khalid@gmail.com: String str= "Geeks", nstr="";,        char ch;,
+khalid@gmail.com:  for (int i=0; i<str.length(); i++), int maxNumber = 10, previousNumber = 0, nextNumber = 1;,
